@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		76926BA3288E68CA003BB379 /* Tink-Dell */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Tink-Dell"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76926BA6288E68CA003BB379 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		76926BAE288E6901003BB379 /* interval_map.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = interval_map.hpp; sourceTree = "<group>"; };
+		76BF3D46288EEFFE000E6A67 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		76926B9A288E68CA003BB379 = {
 			isa = PBXGroup;
 			children = (
+				76BF3D46288EEFFE000E6A67 /* README.md */,
 				76926BA5288E68CA003BB379 /* Tink-Dell */,
 				76926BA4288E68CA003BB379 /* Products */,
 			);
@@ -58,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				76926BA6288E68CA003BB379 /* main.cpp */,
+				76926BAE288E6901003BB379 /* interval_map.hpp */,
 			);
 			path = "Tink-Dell";
 			sourceTree = "<group>";
