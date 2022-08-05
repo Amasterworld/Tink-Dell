@@ -1,8 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf949
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-}
+
 In this coding challenge, the interviewers ask the candidate to make a interval_map with the initilal value from the constructor.
 To insert the interval values the interviewers use the assign method and we have to implement this method
 
